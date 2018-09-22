@@ -10,4 +10,6 @@ The CircuitPython code reads the input voltage and adjusts the DAC output for th
 
 The most recent version of the code reads a meter scale input from a potentiometer attached to pin A3. Pins D5, D6, and D9 can be used to provide PWM outputs proportional to the value and polarity of the input signal.
 
+![Retro CV Meter and M4 Express Close Rendering](https://github.com/CedarGroveStudios/RetroMeterWing/blob/master/retro%20meter%20v03%20bottom.png)
+![Retro CV Meter and M4 Express Close Rendering](https://github.com/CedarGroveStudios/RetroMeterWing/blob/master/retro%20meter%20v03%20piezo.png)
 ![Retro CV Meter and M4 Express Close Rendering](https://github.com/CedarGroveStudios/RetroMeterWing/blob/master/retro%20meter%20v03%20close.png)
